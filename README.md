@@ -10,7 +10,7 @@ I am a Back-end Developer. I am passionate about technologies and love to learn 
 Here are a few things I've picked up along my learning journey.
 
 * 🗣 Python | JavaScript | SQL 
-* 🖇️ Django | Django Rest Framework | FastAPI | aiohttp
+* 🖇️ Django | Django Rest Framework | FastAPI | aiohttp | NestJS
 * 🛢️ MySQL | SQLite | PostgreSQL
 * :octocat: Git | Github
 * 🌐 HTML | CSS | VueJs
